@@ -1,4 +1,4 @@
-name: show-directory
+name: workflow
 on: push
 jobs:
     build:
